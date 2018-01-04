@@ -347,6 +347,11 @@ Scala
 
 - [Scaloid](https://github.com/pocorall/scaloid)
 
+Groovy
+- [SwissKnife] (https://github.com/Arasthel/SwissKnife)
+- [Spock] (https://github.com/AndrewReitz/android-spock)
+- [Lazybones] (https://github.com/grooida/grooid-templates)
+
 Kotlin
 
 - [Anko](https://github.com/Kotlin/anko)
